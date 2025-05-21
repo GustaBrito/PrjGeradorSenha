@@ -1,0 +1,17 @@
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\bin\Release\net5.0-windows\PrjGeradorSenha.exe
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\bin\Release\net5.0-windows\PrjGeradorSenha.deps.json
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\bin\Release\net5.0-windows\PrjGeradorSenha.runtimeconfig.json
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\bin\Release\net5.0-windows\PrjGeradorSenha.runtimeconfig.dev.json
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\bin\Release\net5.0-windows\PrjGeradorSenha.dll
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\bin\Release\net5.0-windows\ref\PrjGeradorSenha.dll
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\bin\Release\net5.0-windows\PrjGeradorSenha.pdb
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\obj\Release\net5.0-windows\PrjGeradorSenha.FrmGeradorSenhas.resources
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\obj\Release\net5.0-windows\PrjGeradorSenha.csproj.GenerateResource.cache
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\obj\Release\net5.0-windows\PrjGeradorSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\obj\Release\net5.0-windows\PrjGeradorSenha.AssemblyInfoInputs.cache
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\obj\Release\net5.0-windows\PrjGeradorSenha.AssemblyInfo.cs
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\obj\Release\net5.0-windows\PrjGeradorSenha.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\obj\Release\net5.0-windows\PrjGeradorSenha.dll
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\obj\Release\net5.0-windows\ref\PrjGeradorSenha.dll
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\obj\Release\net5.0-windows\PrjGeradorSenha.pdb
+C:\Users\Gustavo.abrito\Desktop\Pessoal\ProjetinhosGitHub\PrjGeradorSenha\obj\Release\net5.0-windows\PrjGeradorSenha.genruntimeconfig.cache
